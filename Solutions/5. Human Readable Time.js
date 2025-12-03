@@ -1,4 +1,4 @@
-// kata: https://www.codewars.com/kata/520b9d2ad5c005041100000f
+// kata: https://www.codewars.com/kata/52685f7382004e774f0001f7
 // 5 kyu
 
 /*
